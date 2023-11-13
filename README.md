@@ -14,5 +14,4 @@
 * Spring Boot 3.1.5
 * Liquibase
 * PostgreSQL
-* Docker
 
